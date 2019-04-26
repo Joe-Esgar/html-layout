@@ -1,0 +1,48 @@
+.box1 {
+  background-color: rgba(128, 128, 128, 0.61);
+  width: 100%;
+  height: 80px;
+}
+
+.mini-box {
+  height: 60px;
+  width: 5%;
+  background-color: rgba(57, 127, 219, 0.808);
+  margin-top: 10px;
+  float: left;
+  margin-left: 20px;
+}
+
+p {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.box2 {
+  width: 100%;
+  height: 270px;
+}
+
+.box3 {
+  background-color: rgba(57, 127, 219, 0.808);
+  width: 100%;
+  height: 80px;
+}
+
+.box4 {
+  width: 100%;
+  height: 80px;
+  background-color: aquamarine;
+}
+
+.box5 {
+  width: 100%;
+  height: 80px;
+  background-color: lightgreen;
+}
+
+.box6 {
+  width: 100%;
+  height: 80px;
+  background-color: yellow;
+}
